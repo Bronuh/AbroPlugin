@@ -1,9 +1,0 @@
-name: Abroplugin
-main: abroplugin.Main
-version: 1.0
-authors: [Bronuh]
-description: This is da real shiet. Prepaer ur anoos
-commands:
-  sethome:
-    description: main shit generator command. Also bh, shit
-    aliases: [bh,shit]
